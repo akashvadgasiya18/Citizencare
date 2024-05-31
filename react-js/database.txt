@@ -1,0 +1,1 @@
+DATABASE = mongodb+srv://shreyabundheliya:Shreya2305@cluster0.u4r0zvt.mongodb.net/my-app
